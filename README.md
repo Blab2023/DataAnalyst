@@ -22,8 +22,10 @@
 
 ## Work Experience
 
-###OneCampus Academy, OH, United States###:
+###OneCampus Academy, OH, United States:
+
 **Associate Data Analyst (Internship)**
+
 **August 2022 – Till Date**
 - Understand the fundamental concepts and conventions with different algorithms to analyze the data effectively.
 - Analyze patterns in data and leverage the results to help transform organizations
@@ -74,12 +76,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 **Project Outcomes:** A prediction model was built to predict the number of Hits of each payer
 
-##Certifications:##
+##Certifications:
 1.	Data Analytics Professional certification –OneCampus Academy
 2.	Data Analytics with R Professional certification --- Coursera (at project stage 95%)
 3.	Data Science with Python certification – Simplilearn
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: www.linkedin.com/in/benson-levi-9867146b
+- Email: leviben2023@gmail.com
 
