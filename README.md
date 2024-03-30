@@ -61,10 +61,11 @@ March 2018
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+
 **Problem Statement:** 
-A high school teacher needed help in grading multiple subjects’ exams and quiz
+A high school teacher needed help in grading multiple subjects’ exams and quiz,
 **Modeling Approach:** 
-Built a python script that manually load each students scores by subject for quiz, homework, attendance, and exam.
+Built a python script that manually load each students scores by subject for quiz, homework, attendance, and exam.,
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 **Project Outcomes:** Automatically computes the Average Score, GPA (0 to 5.0), Grade and Status (Pass, Fail, Retake) and stores in a container for each student as per the provided rating scales.
