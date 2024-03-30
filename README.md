@@ -22,7 +22,7 @@
 
 ## Work Experience
 
-###OneCampus Academy, OH, United States:
+##OneCampus Academy, OH, United States:
 
 **Associate Data Analyst (Internship)**
 
@@ -34,31 +34,43 @@
 - Explore a variety of use cases that show you how to join and merge databases, prepare data for analysis, and handle imbalanced data.
 
 **Nigerian Meteorological Agency(NiMet), Lagos, Nigeria**
-Principal Meteorologist (Weather Data Analyst)
-July 2005 – Till Date
+
+**Principal Meteorologist (Weather Data Analyst)**
+
+**July 2005 – Till Date**
 -	Collation and compilation of observed weather data for extraction
 -	Analyzed the compiled weather parameters with respect to synoptic hours.
 -	Prepared marine weather forecast with visualization tools for presentation.
 
 ## Education 
+
 **Qualifications:**
+
 **Federal University of Technology, Akure, Nigeria**
+
 Master of Technology(Meteorology and Climate Science)
 December 2023
 
 **Federal University of Technology, Akure, Nigeria**
+
 Bachelor of Technology(Meteorology)
 March 2018
 
 
 ## Portfolio Projects
+
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-**Problem Statement:** A high school teacher needed help in grading multiple subjects’ exams and quiz 
+**Problem Statement:** A high school teacher needed help in grading multiple subjects’ exams and quiz
+
 **Modeling Approach:** Built a python script that manually load each students scores by subject for quiz, homework, attendance, and exam.
+
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
 **Project Outcomes:** Automatically computes the Average Score, GPA (0 to 5.0), Grade and Status (Pass, Fail, Retake) and stores in a container for each student as per the provided rating scales.
+
 **Display**![School Grade](https://github.com/Blab2023/DataAnalyst/assets/122015022/3e659e00-3838-4692-9c13-a0a43294a8c7)
            ![sch grade](https://github.com/Blab2023/DataAnalyst/assets/122015022/127e351e-9525-4853-a1f2-233e3e6f9172)
 
