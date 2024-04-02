@@ -77,6 +77,8 @@ Automatically computes the Average Score, GPA (0 to 5.0), Grade and Status (Pass
 **Display**![School Grade](https://github.com/Blab2023/DataAnalyst/assets/122015022/3e659e00-3838-4692-9c13-a0a43294a8c7)
            ![sch grade](https://github.com/Blab2023/DataAnalyst/assets/122015022/127e351e-9525-4853-a1f2-233e3e6f9172)
 
+
+
 **Problem Statement:**
 Grocery Store Checkout App to record each sale and automatically compute total sale for a customer at check out and generate a receipt for the customer.
 
@@ -88,7 +90,9 @@ A python script was built to store information about the products by category in
 **Technology:** Python, Pandas, Matplotlib.
 
 **Project Outcomes:** The app store and automatically update inventory of each product after sale or restocking raise an alert if any product inventory falls below 5 pieces and allow the store owner to enter sales per item for each customer and generate a total sales receipt after the sale.
+
 **Display**
+
 
 
 **Problem Statement:** 
@@ -103,12 +107,14 @@ Conduct a full range cleaning of the data, preprocess the cleaned data and trans
 
 **Project Outcomes:** A prediction model was built to predict the number of Hits of each payer
 
+
 ## Certifications:
 1.	Data Analytics Professional certification –OneCampus Academy
 2.	Data Analytics with R Professional certification --- Coursera (at project stage 95%)
 3.	Data Science with Python certification – Simplilearn
 
+
 ## Contacts
-- LinkedIn: [@bLevi](www.linkedin.com/in/benson-levi-9867146b)
+- LinkedIn: [@bLevi](https://www.linkedin.com/in/benson-levi-9867146b/)
 - Email: leviben2023@gmail.com
 
