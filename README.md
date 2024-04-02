@@ -22,7 +22,7 @@
 
 ## Work Experience
 
-## OneCampus Academy, OH, United States:
+### OneCampus Academy, OH, United States:
 
 **Associate Data Analyst (Internship)**
 
@@ -85,9 +85,9 @@ Grocery Store Checkout App to record each sale and automatically compute total s
 **Modeling Approach:** 
 A python script was built to store information about the products by category in the store.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Use python variables, containers, User input functions, functions, conditional statements and Loops.
 
-**Technology:** Python, Pandas, Matplotlib.
+**Technology:** Python, Pandas.
 
 **Project Outcomes:** The app store and automatically update inventory of each product after sale or restocking raise an alert if any product inventory falls below 5 pieces and allow the store owner to enter sales per item for each customer and generate a total sales receipt after the sale.
 
