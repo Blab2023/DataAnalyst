@@ -61,6 +61,8 @@ March 2018
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Project 1
+
 **Problem Statement:** 
 A high school teacher needed help in grading multiple subjects’ exams and quiz,
 
@@ -78,6 +80,7 @@ Automatically computes the Average Score, GPA (0 to 5.0), Grade and Status (Pass
            ![sch grade](https://github.com/Blab2023/DataAnalyst/assets/122015022/127e351e-9525-4853-a1f2-233e3e6f9172)
 
 
+### Project 2
 
 **Problem Statement:**
 Grocery Store Checkout App to record each sale and automatically compute total sale for a customer at check out and generate a receipt for the customer.
@@ -92,8 +95,16 @@ A python script was built to store information about the products by category in
 **Project Outcomes:** The app store and automatically update inventory of each product after sale or restocking raise an alert if any product inventory falls below 5 pieces and allow the store owner to enter sales per item for each customer and generate a total sales receipt after the sale.
 
 **Display**
+![Grocery store](https://github.com/Blab2023/DataAnalyst/assets/122015022/4823bdbe-c67e-49f3-a603-4b60666b1ef6)
+![Grocery store1](https://github.com/Blab2023/DataAnalyst/assets/122015022/29c64102-79e6-4adf-9842-811457e6a414)
+![Grocery store2](https://github.com/Blab2023/DataAnalyst/assets/122015022/fdda51d8-3af2-423f-b242-fff55a22ea9b)
+![Grocery store3](https://github.com/Blab2023/DataAnalyst/assets/122015022/c2cbdc8f-fb72-4417-9e21-830527437bbd)
+![Grocery store4](https://github.com/Blab2023/DataAnalyst/assets/122015022/d202ffd8-defa-49de-92e1-8d9181c7703e)
 
 
+
+
+### Project 3
 
 **Problem Statement:** 
 A Football team is preparing for the next games season and have asked you to help clean and preprocess their data and hopefully help predict number of hits by each player
@@ -106,6 +117,17 @@ Conduct a full range cleaning of the data, preprocess the cleaned data and trans
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Project Outcomes:** A prediction model was built to predict the number of Hits of each payer
+
+**Display**
+![DWA](https://github.com/Blab2023/DataAnalyst/assets/122015022/77a7ca22-9acf-425d-9a5a-1fa020ba675d)
+![DWA1](https://github.com/Blab2023/DataAnalyst/assets/122015022/3bcfbe25-16d1-4151-943f-5b4a013982d2)
+![DWA2](https://github.com/Blab2023/DataAnalyst/assets/122015022/14edf0b1-c652-4cd5-8e3c-1df01390ab91)
+![DWA3](https://github.com/Blab2023/DataAnalyst/assets/122015022/71c031ba-73de-47f0-8b84-95f1e0b9c12f)
+![DWA4](https://github.com/Blab2023/DataAnalyst/assets/122015022/6fb5c494-0bb6-4457-8a02-a194baa70450)
+![DWA5](https://github.com/Blab2023/DataAnalyst/assets/122015022/b29e2558-1a6f-439a-87f3-885f7e6f0c23)
+![DWA6](https://github.com/Blab2023/DataAnalyst/assets/122015022/59142b87-46f9-4b3a-a788-8d7a85d83d89)
+![DWA7](https://github.com/Blab2023/DataAnalyst/assets/122015022/07b536d4-9bcc-4969-b1a8-628ddd89d66c)
+
 
 
 ## Certifications:
