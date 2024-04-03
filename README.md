@@ -133,7 +133,7 @@ Conduct a full range cleaning of the data, preprocess the cleaned data and trans
 ## Certifications:
 1.	Data Analytics Professional certification –OneCampus Academy
 2.	Data Analytics with R Professional certification --- Coursera (at project stage 95%)
-3.	Data Science with Python certification – Simplilearn
+3.	Data Science with Python certification – Simplilearn[View](https://simpli-web.app.link/e/r3jDHJnnNCb)
 
 
 ## Contacts
